@@ -1,0 +1,105 @@
+{
+    "Generation Script for Gridfinity Printable Labels": {
+        "include": true,
+        "cms-id": "JFM-Proj-006",
+        "start-date": "11 January 2024",
+        "end-date": "25 January 2024",
+        "description": "A Fusion 360 Script that uses the Fusion 360 API to automatically generate thousands of variations of labels for the Gridfinity Bin by Pred.",
+        "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-006",
+        "project-categories": [
+            "3D-Printing",
+            "Computer-Programming",
+            "Python",
+            "Add-In",
+            "Software Development"
+        ]
+    },
+    "Printable Label Expansion Packs for Gridfinity Bins by Pred": {
+        "include": true,
+        "cms-id": "JFM-Proj-005",
+        "start-date": "11 January 2024",
+        "end-date": "Work-In-Progress",
+        "description": "These labels are just a small expansion to other labels by Pred and Eistee (if 48,000 labels is considered a small expansion!). They are compatible with the Gridfinity bins by Pred. I plan on adding more varieties and sizes, as well as even more in the future and will update this model page as I do so.",
+        "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-005",
+        "project-categories": [
+            "3D-Printing"
+        ]
+    },
+    "Push-Fit Honeycomb Snap": {
+        "include": true,
+        "cms-id": "",
+        "start-date": "",
+        "end-date": "12 February 2024",
+        "description": "A push fit attachment for the Multiboard system that lets you use Honeycomb snaps.",
+        "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/push-fit-honeycomb-snap",
+        "project-categories": [
+            "3D-Printing"
+        ]
+    },
+    "Mid-Thread Screw Honeycomb Snap for Multiboard": {
+        "include": true,
+        "cms-id": "",
+        "start-date": "",
+        "end-date": "12 February 2024",
+        "description": "A mid-thread screw attachment for the Multiboard system by KeepMaking that allows you to use Honeycomb Snaps.",
+        "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/mid-thread-screw-honeycomb-snap-for-multiboard",
+        "project-categories": [
+            "3D-Printing"
+        ]
+    },
+    "Filament Dy-box Mk.3": {
+        "include": true,
+        "cms-id": "JFM-Proj-001.3",
+        "start-date": "9 March 2024",
+        "end-date": "Work-In-Progress",
+        "description": "The focus of this version is to implement lessons learned in the previous iterations to produce an inexpensive, easy to build, convenient to store, and effective dry-box that looks good at the same time.",
+        "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-3",
+        "project-categories": [
+            ""
+        ]
+    },
+    "Hinged Draw Latch": {
+        "include": true,
+        "cms-id": "JFM-Proj-003",
+        "start-date": "20 May 2024",
+        "end-date": "25 May 2024",
+        "description": "Looking at the market for hinge draw-latches there are no products on the market that I could find that fits the requirements of the project JFM-Proj-001.3 Filament Dry-box. The project requires a hinge for the lid of the box that also acts like a draw latch or tension latch in operation to create an air tight seal.<br>With this is mind, the aforementioned project JFM-P001 Filament Dry-box needs a custom hinged draw-latch as there are none available on the market that meets the needs of the project. It needs to be inexpensive, preferably less than $5 per pair, of an under-center style so that the handle covers the mechanism creating a clean and simple appearance, and have a take-up of at least 10mm. It shall be surface mounted using M3 screws and the overall dimensions should not subceed 20mm in width or 40mm in length with a projection not exceeding 13mm. Ideally it will be identical to JFM-Proj-002 for consistency.",
+        "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-003",
+        "project-categories": [
+            ""
+        ]
+    },
+    "Draw Latch": {
+        "include": true,
+        "cms-id": "JFM-Proj-002",
+        "start-date": "29 March 2024",
+        "end-date": "3 May 2024",
+        "description": "Looking at the market for draw-latches and tension-latches there are lots of options, however, the majority of what is available are metal over-center latches that have take-ups way larger than required, overall dimensions and projections that far exceed the constraints of the project JFM-P001 Filament Dry-box, and being over-center are not appealing to the eye with the complex mechanism exposed. Lastly, the cost of these latches on the market are over $10 individually or per pair, putting them outside the price range of the JFM-P001 project.<br>With this is mind, the aforementioned project JFM-P001 Filament Dry-box needs a custom draw-latch as there is no draw-latch available on the market that meets the needs of the project. It needs to be inexpensive, preferably less than $5 per pair, of an under-center style so that the handle covers the mechanism creating a clean and simple appearance, and have a take-up of at least 10mm. It shall be surface mounted using M3 screws and the overall dimensions should not subceed 20mm in width or 40mm in length with a projection not exceeding 13mm.",
+        "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-002",
+        "project-categories": [
+            ""
+        ]
+    },
+    "Filament Dy-box Mk.2": {
+        "include": true,
+        "cms-id": "JFM-Proj-001.2",
+        "start-date": "23 November 2023",
+        "end-date": "27 December 2023",
+        "description": "Redesigned draw latch as an over-center-latch for a better seal. Box can now accommodate up to a 200mm diameter and 80mm thick spool. Redesigned desiccant cages and the addition of four smaller desiccant cages in the lid. An air circulation system and tubing that can be connected to a dehumidifier or dryer. Structural improvements. Aesthetic improvements.",
+        "portfolio-url": "",
+        "project-categories": [
+            ""
+        ]
+    },
+    "Filament Dry-Box Mk.1": {
+        "include": true,
+        "cms-id": "JFM-Proj-001.1",
+        "start-date": "3 October 2023",
+        "end-date": "9 November 2023",
+        "description": "Initial proof of concept. Proved that the concept works and tried out different implementations of different design aspects.",
+        "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-1",
+        "project-categories": [
+            ""
+        ]
+    }
+}

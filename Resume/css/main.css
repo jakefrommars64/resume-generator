@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Orbitron:wght@400..900&family=Silkscreen:wght@400;700&display=swap');
+
+:root {
+    --foreground: #fff;
+    --background: #000;
+    --color-border-1: #424242;
+    --color-border-2: #e8e8e8;
+    --border-1: 5px;
+    --border-2: 1px;
+}
+
+/** Site header */
+.resume-header {
+    border-top: var(--border-1) solid var(--color-border-1);
+    border-bottom: var(--border-2) solid var(--color-border-2);
+    min-height: 55.95px;
+    position: relative;
+}
+
+.resume-title {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 54px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    /* float: left; */
+    color: var(--foreground);
+    background-color: var(--background);
+}
+
+.resume-subtitle {
+    /* float: left; */
+}
+
+.resume-title-container {
+    background-color: var(--color-border-1);
+    float: left;
+    max-width: 66%;
+}
+
+.resume-contact {
+    vertical-align: middle;
+}
+
+.resume-contact-container {
+    background-color: red;
+    font: 1em sansation;
+}

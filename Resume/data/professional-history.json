@@ -1,0 +1,138 @@
+[
+    {
+        "employer": "Continental ContiTech",
+        "positions": [
+            {
+                "include": true,
+                "title": "Injection Press Operator",
+                "employment-type": "Full-Time",
+                "location": "Auburn, IN",
+                "start-date": "March 2024",
+                "end-date": "Present",
+                "description": "Injection Press Operator - operate injection presses, trim parts and some assembly work.<br>Crew Associate - operate injection presses, trim parts and some assembly work.<br>Metal Prep - operate paint room equipment including various chains and wheel-a-brator.<br>Responsible for wearing PPE,5S, quality of parts and following all work rules.<br>Other duties as required by supervisor",
+                "skills": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "employer": "Freelanceing",
+        "positions": [
+            {
+                "include": true,
+                "title": "Freelance Engineer",
+                "employment-type": "Freelance",
+                "location": "Auburn, IN",
+                "start-date": "2018",
+                "end-date": "Present",
+                "description": "",
+                "skills": [
+                    "Problem Solving",
+                    "Revit",
+                    "Project Management",
+                    "Computer Aided Design",
+                    "Inventor",
+                    "Onshape"
+                ]
+            }
+        ]
+    },
+    {
+        "employer": "Harbor Freight Tools",
+        "positions": [
+            {
+                "include": true,
+                "title": "Sales Associate",
+                "employment-type": "Part-Time",
+                "location": "Auburn, IN",
+                "start-date": "November 2023",
+                "end-date": "May 2024",
+                "description": "Provide a great experience for customers.<br>Handle various sales transactions.<br>Encourage customers to participate in company programs.<br>Maintain a safe, clean, and organized store.<br>Complete other duties assigned by the Leader On Duty.",
+                "skills": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "employer": "Western Power Sports",
+        "positions": [
+            {
+                "include": true,
+                "title": "5S Safety Project Lead",
+                "employment-type": "Full-time",
+                "location": "Ashley, IN",
+                "start-date": "April 2023",
+                "end-date": "October 2023",
+                "description": "Promoted to Project Lead after mentioning safety concerns to management and the Project was approved.<br>Provide oversight, perform analysis, and implement safety-related and organizational infrastructure, processes, and procedures.<br>Build cross-functional teams of 3+ associates to analyze the needs of each department and their already established procedures.<br>Designed new PIT and pedestrian traffic lanes, new storage layouts and procedures, and implemented a 6S system in each department.<br>After implementing new safety systems/procedures, saw an incident and close-call decrease of up to 60%.<br>Actively work with Plant Manager and Department Leads on strategies to improve efficiency and throughput without compromising safety.",
+                "skills": [
+                    ""
+                ]
+            },
+            {
+                "include": true,
+                "title": "Outbound Truck Loader",
+                "employment-type": "Full-Time",
+                "location": "Ashley, IN",
+                "start-date": "June 2022",
+                "end-date": "October 2023",
+                "description": "Sort packages between different carriers.<br>Check package condition and packing quality and fix any issues that might cause the product to be damaged during shipping.<br>Load packages and pallets onto respective carriers’ trailers ensuring packages are secure.<br>Use forktrucks to load oversize products onto trailers in a safe manner.",
+                "skills": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "employer": "Walmart",
+        "positions": [
+            {
+                "include": true,
+                "title": "Stocking Associate",
+                "employment-type": "Full-Time",
+                "location": "Fort Wayne, IN",
+                "start-date": "January 2022",
+                "end-date": "June 2022",
+                "description": "Unload General Merchandise trucks and separate crates onto different pallets according to the department in a quick and efficient manner.<br>Stock merchandise onto shelves while facing all items to make the store more attractive to customers.<br>Operate manual and electric pallet jacks to move bulks of merchandise throughout the store.<br>Use pick sheets to select products for specific isles and shelf spots.",
+                "skills": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "employer": "Therma-Tru",
+        "positions": [
+            {
+                "include": true,
+                "title": "Molding Operator",
+                "employment-type": "Full-Time",
+                "location": "Butler, IN",
+                "start-date": "June 2021",
+                "end-date": "February 2022",
+                "description": "",
+                "skills": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "employer": "FXI",
+        "positions": [
+            {
+                "include": true,
+                "title": "SA Packer",
+                "employment-type": "Full-Time",
+                "location": "Auburn, IN",
+                "start-date": "April 2021",
+                "end-date": "June 2021",
+                "description": "Check the product coming off the line for quality, and check the serial number. Load the product into the appropriate box, also put any warranties and informational packets in the box. Close the box and stack it onto a rack or pallet for shipping.",
+                "skills": [
+                    ""
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "institution-name": "Garrett High School",
+        "major": "",
+        "diploma-degree": "High School Diploma",
+        "location": "Garrett, IN",
+        "start-date": "August 2016",
+        "end-date": "May 2020",
+        "gpa": "3.4095",
+        "activities-societies": [
+            "National Honors Society",
+            "Honor Roll",
+            "Student aid for 'Project Lead The Way'",
+            "Cyber Patriot",
+            "Marching Band",
+            "Volunteer at JAM Recreation Center"
+        ],
+        "skills": [
+            ""
+        ]
+    },
+    {
+        "institution-name": "Purdue University",
+        "major": "Mechanical Engineering",
+        "diploma-degree": "Bachelor's"
+        "location": "Fort Wayne, IN",
+        "start-date": "August 2020",
+        "end-date": "January 2021",
+        "gpa": "",
+        "activities-societies": [
+            ""
+        ],
+        "skills": [
+            ""
+        ] 
+    }
+]

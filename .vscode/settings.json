@@ -1,0 +1,6 @@
+{
+    "markdown.styles": [
+        "Resume/css/bootstrap.min.css",
+        "Resume/css/resume.css"
+    ]
+}

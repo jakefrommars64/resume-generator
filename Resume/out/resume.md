@@ -58,7 +58,7 @@ March 2024 &rarr Present
 :::
 ::: col resume-skills
 **Skills**
-
+Analytical Skills, Cross-functional Collaboration, Cross-functional Communication, Cross-functional Coordination, Interpersonal Communication, Interpersonal Skills, Material Handling, Order Fulfillment, Palletizing, Problem Solving, Sorting, Understand & Convey Complex Information
 
 :::
 ::::
@@ -94,7 +94,7 @@ Auburn, IN
 :::
 ::: col resume-skills
 **Skills**
-Problem Solving, Revit, Project Management, Computer Aided Design, Inventor, Onshape
+2D Drawing + Drafting, 3D Modeling, 3D Printing, 3D Rendering, 3D Visualization, Analytical Skills, AutoCAD, Autodesk, C++, CAD Standards, CNC Operation, CNC Programming, Coaching, Communication, Computer-Aided Design (CAD), Cross-functional Collaboration, Cross-functional Communication, Cross-functional Coordination, Cross-functional Problem Solving, Cross-functional Team Building, Cross-functional Team Leadership, CSS, Data Analysis, Data Management, Data Manipulation, Digital Electronics, Fusion 360, HTML, Interpersonal Communication, Interpersonal Skills, Inventor, Inventory Accuracy, Inventory Analysis, Inventory Management, Inventory Optimization, Java, Javascript, Markdown, Material Handling, Microsoft Excel, Microsoft Office, Microsoft PowerPoint, Microsoft Word, Notion, Onshape, Order Fulfillment, Palletizing, Problem Solving, Project Management, Project Planning, Purchase Orders, Python, Revit, Sorting, Teamwork, Typescript, Understand & Convey Complex Information, Visual Studio, Visual Studio Code (VS Code)
 
 :::
 ::::
@@ -130,7 +130,7 @@ November 2023 &rarr May 2024
 :::
 ::: col resume-skills
 **Skills**
-
+Analytical Skills, Coaching, Communication, Cross-functional Collaboration, Cross-functional Communication, Cross-functional Coordination, Cross-functional Problem Solving, Interpersonal Communication, Interpersonal Skills, Inventory Accuracy, Inventory Analysis, Inventory Management, Inventory Optimization, Material Handling, Order Fulfillment, Palletizing, Problem Solving, Purchase Orders, Sorting, Teamwork, Understand & Convey Complex Information
 
 :::
 ::::
@@ -166,7 +166,7 @@ April 2023 &rarr October 2023
 :::
 ::: col resume-skills
 **Skills**
-
+2D Drawing + Drafting, Analytical Skills, Cross-functional Collaboration, Cross-functional Communication, Cross-functional Coordination, Cross-functional Problem Solving, Cross-functional Team Building, Cross-functional Team Leadership, Data Analysis, Interpersonal Communication, Interpersonal Skills, Inventory Analysis, Material Handling, Microsoft Excel, Microsoft Office, Microsoft PowerPoint, Microsoft Word, Problem Solving, Project Management, Project Planning, Purchase Orders, Understand & Convey Complex Information
 
 :::
 ::::
@@ -188,7 +188,7 @@ June 2022 &rarr October 2023
 :::
 ::: col resume-skills
 **Skills**
-
+Analytical Skills, Cross-functional Collaboration, Cross-functional Communication, Cross-functional Coordination, Cross-functional Problem Solving, Interpersonal Communication, Interpersonal Skills, Inventory Accuracy, Inventory Analysis, Material Handling, Microsoft Excel, Microsoft Office, Microsoft Word, Order Fulfillment, Palletizing, Problem Solving, Purchase Orders, Sorting, Teamwork, Understand & Convey Complex Information
 
 :::
 ::::
@@ -224,7 +224,7 @@ January 2022 &rarr June 2022
 :::
 ::: col resume-skills
 **Skills**
-
+Analytical Skills, Coaching, Cross-functional Collaboration, Cross-functional Communication, Cross-functional Coordination, Cross-functional Problem Solving, Interpersonal Communication, Interpersonal Skills, Inventory Accuracy, Inventory Analysis, Inventory Management, Order Fulfillment, Palletizing, Sorting, Understand & Convey Complex Information
 
 :::
 ::::
@@ -260,7 +260,7 @@ June 2021 &rarr February 2022
 :::
 ::: col resume-skills
 **Skills**
-
+Analytical Skills, Coaching, Communication, Interpersonal Communication, Interpersonal Skills, Inventory Accuracy, Material Handling, Order Fulfillment, Problem Solving, Teamwork, Understand & Convey Complex Information
 
 :::
 ::::
@@ -296,7 +296,7 @@ April 2021 &rarr June 2021
 :::
 ::: col resume-skills
 **Skills**
-
+Analytical Skills, Coaching, Communication, Interpersonal Communication, Interpersonal Skills, Inventory Accuracy, Material Handling, Order Fulfillment, Problem Solving, Teamwork, Understand & Convey Complex Information
 
 :::
 ::::
@@ -341,7 +341,7 @@ August 2016 &rarr May 2020
 :::
 ::: col resume-skills
 **Skills**
-
+2D Drawing + Drafting, 3D Modeling, 3D Printing, 3D Rendering, 3D Visualization, Analytical Skills, AutoCAD, Autodesk, C++, CAD Standards, CNC Operation, CNC Programming, Communication, Computer-Aided Design (CAD), Data Analysis, Digital Electronics, Interpersonal Communication, Interpersonal Skills, Inventor, Java, Microsoft Excel, Microsoft Office, Microsoft PowerPoint, Microsoft Word, Problem Solving, Python, Revit, Teamwork, Understand & Convey Complex Information
 
 :::
 ::: col resume-skills
@@ -374,7 +374,7 @@ August 2020 &rarr January 2021
 :::
 ::: col resume-skills
 **Skills**
-
+2D Drawing + Drafting, 3D Modeling, 3D Printing, 3D Rendering, 3D Visualization, Analytical Skills, AutoCAD, Autodesk, C++, CAD Standards, CNC Operation, CNC Programming, Communication, Computer-Aided Design (CAD), Data Analysis, Digital Electronics, Interpersonal Communication, Interpersonal Skills, Inventor, Java, Microsoft Excel, Microsoft Office, Microsoft PowerPoint, Microsoft Word, Problem Solving, Python, Revit, Teamwork, Understand & Convey Complex Information
 
 :::
 ::: col resume-skills
@@ -453,6 +453,30 @@ Projects
 
 <!-- ::::: container resume -->
 
+::::: container resume
+<!-- #region Resume Generation Script -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Resume Generation Script**
+:::
+::: col-3 resume-table-col
+29 July 2024 &rarr; 6 August 2024
+:::
+::: col-3 resume-table-col
+[Portfolio Page]()
+:::
+::: col-3
+**Categories**
+
+
+:::
+::::
+
+<!-- #endregion Resume Generation Script -->
+
+:::::
+::::: container resume
 <!-- #region Generation Script for Gridfinity Printable Labels -->
 
 :::: row resume-detail resume-table-row
@@ -474,6 +498,8 @@ Projects
 
 <!-- #endregion Generation Script for Gridfinity Printable Labels -->
 
+:::::
+::::: container resume
 <!-- #region Printable Label Expansion Packs for Gridfinity Bins by Pred -->
 
 :::: row resume-detail resume-table-row
@@ -495,6 +521,8 @@ Projects
 
 <!-- #endregion Printable Label Expansion Packs for Gridfinity Bins by Pred -->
 
+:::::
+::::: container resume
 <!-- #region Push-Fit Honeycomb Snap -->
 
 :::: row resume-detail resume-table-row
@@ -516,6 +544,8 @@ Projects
 
 <!-- #endregion Push-Fit Honeycomb Snap -->
 
+:::::
+::::: container resume
 <!-- #region Mid-Thread Screw Honeycomb Snap for Multiboard -->
 
 :::: row resume-detail resume-table-row
@@ -537,6 +567,8 @@ Projects
 
 <!-- #endregion Mid-Thread Screw Honeycomb Snap for Multiboard -->
 
+:::::
+::::: container resume
 <!-- #region Filament Dy-box Mk.3 -->
 
 :::: row resume-detail resume-table-row
@@ -558,6 +590,8 @@ Projects
 
 <!-- #endregion Filament Dy-box Mk.3 -->
 
+:::::
+::::: container resume
 <!-- #region Hinged Draw Latch -->
 
 :::: row resume-detail resume-table-row
@@ -579,6 +613,8 @@ Projects
 
 <!-- #endregion Hinged Draw Latch -->
 
+:::::
+::::: container resume
 <!-- #region Draw Latch -->
 
 :::: row resume-detail resume-table-row
@@ -600,6 +636,8 @@ Projects
 
 <!-- #endregion Draw Latch -->
 
+:::::
+::::: container resume
 <!-- #region Filament Dy-box Mk.2 -->
 
 :::: row resume-detail resume-table-row
@@ -621,6 +659,8 @@ Projects
 
 <!-- #endregion Filament Dy-box Mk.2 -->
 
+:::::
+::::: container resume
 <!-- #region Filament Dry-Box Mk.1 -->
 
 :::: row resume-detail resume-table-row
@@ -642,6 +682,7 @@ Projects
 
 <!-- #endregion Filament Dry-Box Mk.1 -->
 
+:::::
 <!-- ::::: -->
 
 <!-- #endregion Projects -->
@@ -657,7 +698,7 @@ Core Competencies
 :::::
 
 <!-- ::::: container resume -->
-2D Drawing + Drafting, 3D Modeling, 3D Printing, 3D Rendering, 3D Visualization, Analytical Skills, AutoCAD, Autodesk, C++, CAD Standards, CNC Operation, CNC Programming, Coaching, Communication, Computer-Aided Design (CAD), Cross-functional Collaboration, Cross-functional Communication, Cross-functional Coordination, Cross-functional Problem Solving, Cross-functional Team Building, Cross-functional Team Leadership, Data Analysis, Digital Electronics, Interpersonal Communication, Interpersonal Skills, Inventor, Inventory Accuracy, Inventory Analysis, Inventory Management, Inventory Optimization, Java, Material Handling, Microsoft Excel, Microsoft Office, Microsoft PowerPoint, Microsoft Word, Onshape, Order Fulfillment, Palletizing, Problem Solving, Project Management, Project Planning, Purchase Orders, Python, Revit, Sorting, Teamwork, Understand & Convey Complex Information
+2D Drawing + Drafting, 3D Modeling, 3D Printing, 3D Rendering, 3D Visualization, Analytical Skills, AutoCAD, Autodesk, C++, CAD Standards, CNC Operation, CNC Programming, CSS, Coaching, Communication, Computer-Aided Design (CAD), Cross-functional Collaboration, Cross-functional Communication, Cross-functional Coordination, Cross-functional Problem Solving, Cross-functional Team Building, Cross-functional Team Leadership, Data Analysis, Data Management, Data Manipulation, Digital Electronics, Fusion 360, HTML, Interpersonal Communication, Interpersonal Skills, Inventor, Inventory Accuracy, Inventory Analysis, Inventory Management, Inventory Optimization, Java, Javascript, Markdown, Material Handling, Microsoft Excel, Microsoft Office, Microsoft PowerPoint, Microsoft Word, Notion, Onshape, Order Fulfillment, Palletizing, Problem Solving, Project Management, Project Planning, Purchase Orders, Python, Revit, Sorting, Teamwork, Typescript, Understand & Convey Complex Information, Visual Studio, Visual Studio Code (VS Code)
 <!-- ::::: -->
 
 <!-- #endregion Core Competencies -->

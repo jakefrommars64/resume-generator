@@ -122,6 +122,6 @@ class Projects:
                 if type(value) is list:
                     value = ", ".join(value)
                 temp = replace_key(key, value, temp)
-            out += "\n" + temp
+            out += "\n::::: container resume\n" + temp + "\n:::::"
 
         return out

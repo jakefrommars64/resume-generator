@@ -22,7 +22,7 @@
     {
         "institution-name": "Purdue University",
         "major": "Mechanical Engineering",
-        "diploma-degree": "Bachelor's"
+        "diploma-degree": "Bachelor's",
         "location": "Fort Wayne, IN",
         "start-date": "August 2020",
         "end-date": "January 2021",
@@ -32,6 +32,6 @@
         ],
         "skills": [
             ""
-        ] 
+        ]
     }
 ]

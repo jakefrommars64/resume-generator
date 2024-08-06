@@ -1,8 +1,38 @@
-{
-    "contact": [
-        {
-            "title": "website",
-            "data": "www.jakefrommars64.com/"
-        }
-    ]
-}
+[
+    {
+        "include": true,
+        "title": "www.jakefrommars64.com",
+        "icon": "../assets/icons/web.png",
+        "data": "https://www.jakefrommars64.com/"
+    },
+    {
+        "include": true,
+        "title": "jacobsdavis_64@icloud.com",
+        "icon": "../assets/icons/mail.gif",
+        "data": "mailto:jacobsdavis_64@icloud.com"
+    },
+    {
+        "include": true,
+        "title": "LinkedIn/jacob-davis64",
+        "icon": "../assets/icons/linked-in.gif",
+        "data": "https://www.linkedin.com/in/jacob-davis64/"
+    },
+    {
+        "include": true,
+        "title": "(260) 570-3402",
+        "icon": "../assets/icons/call.gif",
+        "data": "tel:+12605703402"
+    },
+    {
+        "include": true,
+        "title": "GitHub/jakefrommars64",
+        "icon": "../assets/icons/github-mark.svg",
+        "data": "https://github.com/jakefrommars64"
+    },
+    {
+        "include": true,
+        "title": "jakefrommars64.github.io",
+        "icon": "../assets/icons/github-mark.svg",
+        "data": "https://jakefrommars64.github.io/"
+    }
+]

@@ -3,6 +3,34 @@ import json
 from utils import *
 
 
+class Section:
+    def __init__(self, layout: pathlib.Path):
+        self.layout = layout.read_text()
+
+    def get_formatted_layout(self, key, value):
+        return replace_key(key, value, replace_key("section-id", key, self.layout))
+
+
+class Contact:
+    def __init__(self, data_path: pathlib.Path):
+        self.path = data_path
+        self.data = json.load(self.path.open())
+        self.layout = '\n\n<img src="{$icon}" width="20"> <a class="resume-contact" href="{$data}">{$title}</a>'
+
+    def get_formatted_layout(self):
+        out = ""
+        for contact in self.data:
+            temp = self.layout
+            if not contact["include"]:
+                continue
+            for key, value in contact.items():
+                if key == "include":
+                    continue
+                temp = replace_key(key, value, temp)
+            out += temp
+        return out
+
+
 class ProfessionalHistory:
     def __init__(
         self,
@@ -52,11 +80,9 @@ class Projects:
             for key, value in data.items():
                 if key == "include":
                     continue
-                if key == "project-categories":
+                if type(value) is list:
                     value = ", ".join(value)
                 temp = replace_key(key, value, temp)
             out += "\n" + temp
-
-        return out
 
         return out

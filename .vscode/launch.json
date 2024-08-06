@@ -8,7 +8,7 @@
             "name": "Run Resume Generator",
             "type": "python",
             "request": "launch",
-            "program": "G:/Foam/Minerva/Employment/Resume/src/generate_resume.py",
+            "program": "F:/repos/resume-generator/Resume/src/generate_resume.py",
             "console": "integratedTerminal",
         }
     ]

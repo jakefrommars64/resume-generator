@@ -1,6 +1,3 @@
-<link rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-
 ::::: container resume-header
 :::: row
 ::: col-9
@@ -11,36 +8,239 @@
 
 :::
 ::: col-3 resume-contact
-<a class="resume-contact" href="https://www.jakefrommars64.com/">
-<span class="material-symbols-outlined">
-link
-</span>jakefrommars64.com</a>
 
-<a class="resume-contact" href="https://jakefrommars64.github.io">
-<span class="material-symbols-outlined">
-link
-</span>jakefrommars64.github.io</a>
 
-<span class="material-symbols-outlined">
-call
-</span>(260) 570-3402
+<img src="../assets/icons/web.png" width="20"> <a class="resume-contact" href="https://www.jakefrommars64.com/">www.jakefrommars64.com</a>
 
+<img src="../assets/icons/mail.gif" width="20"> <a class="resume-contact" href="mailto:jacobsdavis_64@icloud.com">jacobsdavis_64@icloud.com</a>
+
+<img src="../assets/icons/linked-in.gif" width="20"> <a class="resume-contact" href="https://www.linkedin.com/in/jacob-davis64/">LinkedIn/jacob-davis64</a>
+
+<img src="../assets/icons/call.gif" width="20"> <a class="resume-contact" href="tel:+12605703402">(260) 570-3402</a>
+
+<img src="../assets/icons/github-mark.svg" width="20"> <a class="resume-contact" href="https://github.com/jakefrommars64">GitHub/jakefrommars64</a>
+
+<img src="../assets/icons/github-mark.svg" width="20"> <a class="resume-contact" href="https://jakefrommars64.github.io/">jakefrommars64.github.io</a>
 :::
 ::::
 :::::
+
+<!-- #region projects -->
+
+::::: container
+:::: row
+::: col resume resume-section
+projects
+:::
+::::
+:::::
+
+::::: container resume resume-table
+
+<!-- #region Generation Script for Gridfinity Printable Labels -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Generation Script for Gridfinity Printable Labels**
+:::
+::: col-3 resume-table-col
+11 January 2024 &rarr; 25 January 2024
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-006)
+:::
+::: col-3
+**Categories**
+
+3D-Printing, Computer-Programming, Python, Add-In, Software Development
+:::
+::::
+
+<!-- #endregion Generation Script for Gridfinity Printable Labels -->
+
+<!-- #region Printable Label Expansion Packs for Gridfinity Bins by Pred -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Printable Label Expansion Packs for Gridfinity Bins by Pred**
+:::
+::: col-3 resume-table-col
+11 January 2024 &rarr; Work-In-Progress
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-005)
+:::
+::: col-3
+**Categories**
+
+3D-Printing
+:::
+::::
+
+<!-- #endregion Printable Label Expansion Packs for Gridfinity Bins by Pred -->
+
+<!-- #region Push-Fit Honeycomb Snap -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Push-Fit Honeycomb Snap**
+:::
+::: col-3 resume-table-col
+ &rarr; 12 February 2024
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/push-fit-honeycomb-snap)
+:::
+::: col-3
+**Categories**
+
+3D-Printing
+:::
+::::
+
+<!-- #endregion Push-Fit Honeycomb Snap -->
+
+<!-- #region Mid-Thread Screw Honeycomb Snap for Multiboard -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Mid-Thread Screw Honeycomb Snap for Multiboard**
+:::
+::: col-3 resume-table-col
+ &rarr; 12 February 2024
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/mid-thread-screw-honeycomb-snap-for-multiboard)
+:::
+::: col-3
+**Categories**
+
+3D-Printing
+:::
+::::
+
+<!-- #endregion Mid-Thread Screw Honeycomb Snap for Multiboard -->
+
+<!-- #region Filament Dy-box Mk.3 -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Filament Dy-box Mk.3**
+:::
+::: col-3 resume-table-col
+9 March 2024 &rarr; Work-In-Progress
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-3)
+:::
+::: col-3
+**Categories**
+
+
+:::
+::::
+
+<!-- #endregion Filament Dy-box Mk.3 -->
+
+<!-- #region Hinged Draw Latch -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Hinged Draw Latch**
+:::
+::: col-3 resume-table-col
+20 May 2024 &rarr; 25 May 2024
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-003)
+:::
+::: col-3
+**Categories**
+
+
+:::
+::::
+
+<!-- #endregion Hinged Draw Latch -->
+
+<!-- #region Draw Latch -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Draw Latch**
+:::
+::: col-3 resume-table-col
+29 March 2024 &rarr; 3 May 2024
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-002)
+:::
+::: col-3
+**Categories**
+
+
+:::
+::::
+
+<!-- #endregion Draw Latch -->
+
+<!-- #region Filament Dy-box Mk.2 -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Filament Dy-box Mk.2**
+:::
+::: col-3 resume-table-col
+23 November 2023 &rarr; 27 December 2023
+:::
+::: col-3 resume-table-col
+[Portfolio Page]()
+:::
+::: col-3
+**Categories**
+
+
+:::
+::::
+
+<!-- #endregion Filament Dy-box Mk.2 -->
+
+<!-- #region Filament Dry-Box Mk.1 -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Filament Dry-Box Mk.1**
+:::
+::: col-3 resume-table-col
+3 October 2023 &rarr; 9 November 2023
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-1)
+:::
+::: col-3
+**Categories**
+
+
+:::
+::::
+
+<!-- #endregion Filament Dry-Box Mk.1 -->
+
+:::::
+
+<!-- #endregion projects -->
 
 <!-- #region professional-history -->
 
 ::::: container
 :::: row
 ::: col resume resume-section
-
-Professional History
-
+professional-history
 :::
 ::::
 :::::
 
+::::: container resume resume-table
 
 <!-- #region Continental ContiTech -->
 
@@ -316,210 +516,6 @@ Check the product coming off the line for quality, and check the serial number. 
 
 <!-- #endregion FXI -->
 
+:::::
 
 <!-- #endregion professional-history -->
-
-<!-- #region projects -->
-
-::::: container
-:::: row
-::: col resume resume-section
-Projects
-:::
-::::
-:::::
-
-::::: container resume resume-table
-
-<!-- #region Generation Script for Gridfinity Printable Labels -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Generation Script for Gridfinity Printable Labels**
-:::
-::: col-3 resume-table-col
-11 January 2024 &rarr; 25 January 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-006)
-:::
-::: col-3
-**Categories**
-
-3D-Printing, Computer-Programming, Python, Add-In, Software Development
-:::
-::::
-
-<!-- #endregion Generation Script for Gridfinity Printable Labels -->
-
-<!-- #region Printable Label Expansion Packs for Gridfinity Bins by Pred -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Printable Label Expansion Packs for Gridfinity Bins by Pred**
-:::
-::: col-3 resume-table-col
-11 January 2024 &rarr; Work-In-Progress
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-005)
-:::
-::: col-3
-**Categories**
-
-3D-Printing
-:::
-::::
-
-<!-- #endregion Printable Label Expansion Packs for Gridfinity Bins by Pred -->
-
-<!-- #region Push-Fit Honeycomb Snap -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Push-Fit Honeycomb Snap**
-:::
-::: col-3 resume-table-col
- &rarr; 12 February 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/push-fit-honeycomb-snap)
-:::
-::: col-3
-**Categories**
-
-3D-Printing
-:::
-::::
-
-<!-- #endregion Push-Fit Honeycomb Snap -->
-
-<!-- #region Mid-Thread Screw Honeycomb Snap for Multiboard -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Mid-Thread Screw Honeycomb Snap for Multiboard**
-:::
-::: col-3 resume-table-col
- &rarr; 12 February 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/mid-thread-screw-honeycomb-snap-for-multiboard)
-:::
-::: col-3
-**Categories**
-
-3D-Printing
-:::
-::::
-
-<!-- #endregion Mid-Thread Screw Honeycomb Snap for Multiboard -->
-
-<!-- #region Filament Dy-box Mk.3 -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Filament Dy-box Mk.3**
-:::
-::: col-3 resume-table-col
-9 March 2024 &rarr; Work-In-Progress
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-3)
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Filament Dy-box Mk.3 -->
-
-<!-- #region Hinged Draw Latch -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Hinged Draw Latch**
-:::
-::: col-3 resume-table-col
-20 May 2024 &rarr; 25 May 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-003)
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Hinged Draw Latch -->
-
-<!-- #region Draw Latch -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Draw Latch**
-:::
-::: col-3 resume-table-col
-29 March 2024 &rarr; 3 May 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-002)
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Draw Latch -->
-
-<!-- #region Filament Dy-box Mk.2 -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Filament Dy-box Mk.2**
-:::
-::: col-3 resume-table-col
-23 November 2023 &rarr; 27 December 2023
-:::
-::: col-3 resume-table-col
-[Portfolio Page]()
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Filament Dy-box Mk.2 -->
-
-<!-- #region Filament Dry-Box Mk.1 -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Filament Dry-Box Mk.1**
-:::
-::: col-3 resume-table-col
-3 October 2023 &rarr; 9 November 2023
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-1)
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Filament Dry-Box Mk.1 -->
-
-:::::
-
-<!-- #endregion projects -->

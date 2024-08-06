@@ -2,13 +2,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200");
 
 :root {
-    --primary: DarkViolet;
+    --primary: MediumOrchid;
     --secondary: DodgerBlue;
 
     --accent-primary: Indigo;
     --accent-secondary: DimGrey;
 
-    --font-primary: WhiteSmoke;
+    --font-primary: black;
+    --font-secondary: white;
 }
 
 .resume {
@@ -19,7 +20,7 @@
 .resume-header,
 .resume-section {
     font-family: "Ubuntu";
-    color: var(--font-primary);
+    color: var(--font-secondary);
 }
 
 .resume-header {
@@ -29,7 +30,7 @@
 
 .resume-contact {
     font-size: 10pt;
-    color: var(--font-primary);
+    color: var(--font-secondary);
 }
 
 .resume-section {

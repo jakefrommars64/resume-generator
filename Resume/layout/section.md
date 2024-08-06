@@ -9,8 +9,8 @@
 ::::
 :::::
 
-::::: container resume resume-table
+<!-- ::::: container resume -->
 {${$section-id}}
-:::::
+<!-- ::::: -->
 
 <!-- #endregion {$section-id} -->

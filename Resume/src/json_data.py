@@ -31,6 +31,33 @@ class Contact:
         return out
 
 
+class Education:
+    def __init__(self, data_path: pathlib.Path, layout: pathlib.Path):
+        self.path = data_path
+        self.data = json.load(self.path.open())
+        self.layout = layout.read_text()
+
+    def get_formatted_layout(self):
+        out = ""
+        for institution in self.data:
+            temp = self.layout
+            if not institution["include"]:
+                continue
+            for key, value in institution.items():
+                if key == "include":
+                    continue
+                if type(value) == list:
+                    value = ", ".join(value)
+                temp = replace_key(key, value, temp)
+            out += "\n" + temp
+        return out
+
+
+class Certification(Education):
+    def __init__(self, data_path: pathlib.Path, layout: pathlib.Path):
+        super().__init__(data_path, layout)
+
+
 class ProfessionalHistory:
     def __init__(
         self,

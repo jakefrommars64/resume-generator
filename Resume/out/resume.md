@@ -25,17 +25,143 @@
 ::::
 :::::
 
-<!-- #region projects -->
+<!-- #region Certifications -->
 
 ::::: container
 :::: row
 ::: col resume resume-section
-projects
+Certifications
 :::
 ::::
 :::::
 
-::::: container resume resume-table
+<!-- ::::: container resume -->
+
+<!-- #region Certified Professional Autodesk Inventor -->
+
+::::: container resume resume-section-3
+:::: row resume-detail
+::: col
+***Certified Professional Autodesk Inventor***
+{issuing-organization}
+Issued: December 2016
+Expires: N/A
+Credential ID: wBXT6-22qB
+<a class="resume-detail" href="https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=151&cvid=gajtYY9oAKMV2kCwoUNt7g==">Certification</a>
+:::
+::: col resume-skills
+**Skills**
+
+
+:::
+::::
+
+:::: row resume-detail
+::: col
+
+:::
+::::
+:::::
+
+<!-- #endregion Certified Professional Autodesk Inventor -->
+
+<!-- ::::: -->
+
+<!-- #endregion Certifications -->
+
+<!-- #region Education -->
+
+::::: container
+:::: row
+::: col resume resume-section
+Education
+:::
+::::
+:::::
+
+<!-- ::::: container resume -->
+
+<!-- #region Garrett High School -->
+
+::::: container resume resume-section-3
+:::: row resume-detail
+::: col
+***Garrett High School***
+
+High School Diploma
+GPA: 3.4095
+Garrett, IN
+August 2016 &rarr May 2020
+:::
+::: col resume-skills
+**Skills**
+
+
+:::
+::: col resume-skills
+**Activities + Societies**
+National Honors Society, Honor Roll, Student aid for 'Project Lead The Way', Cyber Patriot, Marching Band, Volunteer at JAM Recreation Center
+
+:::
+::::
+
+:::: row resume-detail
+::: col
+
+:::
+::::
+:::::
+
+<!-- #endregion Garrett High School -->
+
+<!-- #region Purdue University -->
+
+::::: container resume resume-section-3
+:::: row resume-detail
+::: col
+***Purdue University***
+Mechanical Engineering
+Bachelor's
+GPA: 
+Fort Wayne, IN
+August 2020 &rarr January 2021
+:::
+::: col resume-skills
+**Skills**
+
+
+:::
+::: col resume-skills
+**Activities + Societies**
+
+
+:::
+::::
+
+:::: row resume-detail
+::: col
+
+:::
+::::
+:::::
+
+<!-- #endregion Purdue University -->
+
+<!-- ::::: -->
+
+<!-- #endregion Education -->
+
+<!-- #region Projects -->
+
+::::: container
+:::: row
+::: col resume resume-section
+Projects
+:::
+::::
+:::::
+
+<!-- ::::: container resume -->
 
 <!-- #region Generation Script for Gridfinity Printable Labels -->
 
@@ -226,21 +352,21 @@ projects
 
 <!-- #endregion Filament Dry-Box Mk.1 -->
 
-:::::
+<!-- ::::: -->
 
-<!-- #endregion projects -->
+<!-- #endregion Projects -->
 
-<!-- #region professional-history -->
+<!-- #region Professional History -->
 
 ::::: container
 :::: row
 ::: col resume resume-section
-professional-history
+Professional History
 :::
 ::::
 :::::
 
-::::: container resume resume-table
+<!-- ::::: container resume -->
 
 <!-- #region Continental ContiTech -->
 
@@ -516,6 +642,6 @@ Check the product coming off the line for quality, and check the serial number. 
 
 <!-- #endregion FXI -->
 
-:::::
+<!-- ::::: -->
 
-<!-- #endregion professional-history -->
+<!-- #endregion Professional History -->

@@ -8,13 +8,14 @@
     --accent-primary: Indigo;
     --accent-secondary: DimGrey;
 
-    --font-primary: black;
-    --font-secondary: white;
+    --font-primary: white;
+    --font-secondary: black;
 }
 
 .resume {
     font-size: 8pt;
     font-family: "Ubuntu";
+    border: none;
 }
 
 .resume-header,
@@ -26,11 +27,12 @@
 .resume-header {
     background-color: var(--primary);
     border-bottom: 5px solid var(--secondary);
+    color: var(--font-primary);
 }
 
 .resume-contact {
     font-size: 10pt;
-    color: var(--font-secondary);
+    color: var(--font-primary);
 }
 
 .resume-section {
@@ -55,6 +57,7 @@
 
 .resume-detail {
     text-align: left;
+    /* color: var(--font-secondary); */
 }
 
 .resume-skills {

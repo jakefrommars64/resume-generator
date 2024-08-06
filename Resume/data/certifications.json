@@ -1,5 +1,6 @@
 [
     {
+        "include": true,
         "name": "Certified Professional Autodesk Inventor",
         "issuing-organization": "Certiport - A Pearson VUE Business",
         "issue-date": "December 2016",
@@ -11,6 +12,7 @@
         ],
         "media": [
             "Resume/assets/Autodesk Certified User Inventor.pdf"
-        ]
+        ],
+        "description": ""
     }
 ]

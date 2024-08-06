@@ -16,12 +16,18 @@ def run():
     ).get_formatted_layout()
     projects = Projects(PATH_PROJECTS_DATA,
                         PATH_PROJECTS_LAYOUT).get_formatted_layout()
+    education = Education(PATH_EDUCATION_DATA,
+                          PATH_EDUCATION_LAYOUT).get_formatted_layout()
+    certification = Certification(
+        PATH_CERTIFICATION_DATA, PATH_CERTIFICATION_LAYOUT).get_formatted_layout()
 
     resume = PATH_MAIN_LAYOUT.read_text()
     resume = replace_key("contact", contact, resume)
 
-    sections = {"projects": projects,
-                "professional-history": professional_history}
+    sections = {"Certifications": certification,
+                "Education": education,
+                "Projects": projects,
+                "Professional History": professional_history}
     for key, value in sections.items():
         resume += section.get_formatted_layout(key, value)
 

@@ -1,5 +1,6 @@
 [
     {
+        "include": true,
         "institution-name": "Garrett High School",
         "major": "",
         "diploma-degree": "High School Diploma",
@@ -7,6 +8,7 @@
         "start-date": "August 2016",
         "end-date": "May 2020",
         "gpa": "3.4095",
+        "description": "",
         "activities-societies": [
             "National Honors Society",
             "Honor Roll",
@@ -20,6 +22,7 @@
         ]
     },
     {
+        "include": true,
         "institution-name": "Purdue University",
         "major": "Mechanical Engineering",
         "diploma-degree": "Bachelor's",
@@ -27,6 +30,7 @@
         "start-date": "August 2020",
         "end-date": "January 2021",
         "gpa": "",
+        "description": "",
         "activities-societies": [
             ""
         ],

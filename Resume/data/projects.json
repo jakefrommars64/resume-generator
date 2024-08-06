@@ -12,6 +12,12 @@
             "Python",
             "Add-In",
             "Software Development"
+        ],
+        "skills": [
+            ""
+        ],
+        "media": [
+            ""
         ]
     },
     "Printable Label Expansion Packs for Gridfinity Bins by Pred": {
@@ -23,6 +29,12 @@
         "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-005",
         "project-categories": [
             "3D-Printing"
+        ],
+        "skills": [
+            ""
+        ],
+        "media": [
+            ""
         ]
     },
     "Push-Fit Honeycomb Snap": {
@@ -34,6 +46,12 @@
         "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/push-fit-honeycomb-snap",
         "project-categories": [
             "3D-Printing"
+        ],
+        "skills": [
+            ""
+        ],
+        "media": [
+            ""
         ]
     },
     "Mid-Thread Screw Honeycomb Snap for Multiboard": {
@@ -45,6 +63,12 @@
         "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/mid-thread-screw-honeycomb-snap-for-multiboard",
         "project-categories": [
             "3D-Printing"
+        ],
+        "skills": [
+            ""
+        ],
+        "media": [
+            ""
         ]
     },
     "Filament Dy-box Mk.3": {
@@ -55,6 +79,12 @@
         "description": "The focus of this version is to implement lessons learned in the previous iterations to produce an inexpensive, easy to build, convenient to store, and effective dry-box that looks good at the same time.",
         "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-3",
         "project-categories": [
+            ""
+        ],
+        "skills": [
+            ""
+        ],
+        "media": [
             ""
         ]
     },
@@ -67,6 +97,12 @@
         "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-003",
         "project-categories": [
             ""
+        ],
+        "skills": [
+            ""
+        ],
+        "media": [
+            ""
         ]
     },
     "Draw Latch": {
@@ -77,6 +113,12 @@
         "description": "Looking at the market for draw-latches and tension-latches there are lots of options, however, the majority of what is available are metal over-center latches that have take-ups way larger than required, overall dimensions and projections that far exceed the constraints of the project JFM-P001 Filament Dry-box, and being over-center are not appealing to the eye with the complex mechanism exposed. Lastly, the cost of these latches on the market are over $10 individually or per pair, putting them outside the price range of the JFM-P001 project.<br>With this is mind, the aforementioned project JFM-P001 Filament Dry-box needs a custom draw-latch as there is no draw-latch available on the market that meets the needs of the project. It needs to be inexpensive, preferably less than $5 per pair, of an under-center style so that the handle covers the mechanism creating a clean and simple appearance, and have a take-up of at least 10mm. It shall be surface mounted using M3 screws and the overall dimensions should not subceed 20mm in width or 40mm in length with a projection not exceeding 13mm.",
         "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-002",
         "project-categories": [
+            ""
+        ],
+        "skills": [
+            ""
+        ],
+        "media": [
             ""
         ]
     },
@@ -89,6 +131,12 @@
         "portfolio-url": "",
         "project-categories": [
             ""
+        ],
+        "skills": [
+            ""
+        ],
+        "media": [
+            ""
         ]
     },
     "Filament Dry-Box Mk.1": {
@@ -99,6 +147,12 @@
         "description": "Initial proof of concept. Proved that the concept works and tried out different implementations of different design aspects.",
         "portfolio-url": "https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-1",
         "project-categories": [
+            ""
+        ],
+        "skills": [
+            ""
+        ],
+        "media": [
             ""
         ]
     }

@@ -1,4 +1,31 @@
 {
+    "Resume Generation Script": {
+        "include": true,
+        "cms-id": "",
+        "start-date": "29 July 2024",
+        "end-date": "6 August 2024",
+        "description": "Write a script that generates tailored resumes using JSON data and Markdown to ease the process of creating resume's tailored for each application.",
+        "portfolio-url": "",
+        "project-categories": [
+            ""
+        ],
+        "skills": [
+            "Analytical Skills",
+            "CSS",
+            "Data Analysis",
+            "Data Management",
+            "Data Manipulation",
+            "HTML",
+            "Markdown",
+            "Problem Solving",
+            "Python",
+            "Understand & Convey Complex Information",
+            "Visual Studio Code (VS Code)"
+        ],
+        "media": [
+            ""
+        ]
+    },
     "Generation Script for Gridfinity Printable Labels": {
         "include": true,
         "cms-id": "JFM-Proj-006",
@@ -14,7 +41,29 @@
             "Software Development"
         ],
         "skills": [
-            ""
+            "3D Modeling",
+            "Analytical Skills",
+            "Autodesk",
+            "C++",
+            "Communication",
+            "Computer-Aided Design (CAD)",
+            "Cross-functional Collaboration",
+            "Cross-functional Communication",
+            "Cross-functional Coordination",
+            "Cross-functional Problem Solving",
+            "Cross-functional Team Building",
+            "Cross-functional Team Leadership",
+            "Fusion 360",
+            "Interpersonal Communication",
+            "Interpersonal Skills",
+            "Notion",
+            "Problem Solving",
+            "Project Management",
+            "Project Planning",
+            "Python",
+            "Teamwork",
+            "Understand & Convey Complex Information",
+            "Visual Studio Code (VS Code)"
         ],
         "media": [
             ""
@@ -31,7 +80,37 @@
             "3D-Printing"
         ],
         "skills": [
-            ""
+            "2D Drawing + Drafting",
+            "3D Modeling",
+            "3D Printing",
+            "3D Rendering",
+            "3D Visualization",
+            "Analytical Skills",
+            "Autodesk",
+            "C++",
+            "CAD Standards",
+            "CNC Operation",
+            "CNC Programming",
+            "Communication",
+            "Computer-Aided Design (CAD)",
+            "Cross-functional Collaboration",
+            "Cross-functional Communication",
+            "Cross-functional Coordination",
+            "Cross-functional Problem Solving",
+            "Cross-functional Team Building",
+            "Cross-functional Team Leadership",
+            "Fusion 360",
+            "Interpersonal Communication",
+            "Interpersonal Skills",
+            "Inventor",
+            "Notion",
+            "Onshape",
+            "Problem Solving",
+            "Project Management",
+            "Project Planning",
+            "Python",
+            "Teamwork",
+            "Understand & Convey Complex Information"
         ],
         "media": [
             ""
@@ -48,7 +127,23 @@
             "3D-Printing"
         ],
         "skills": [
-            ""
+            "2D Drawing + Drafting",
+            "3D Modeling",
+            "3D Printing",
+            "3D Visualization",
+            "Analytical Skills",
+            "AutoCAD",
+            "CAD Standards",
+            "CNC Operation",
+            "CNC Programming",
+            "Computer-Aided Design (CAD)",
+            "Fusion 360",
+            "Onshape",
+            "Problem Solving",
+            "Project Management",
+            "Project Planning",
+            "Purchase Orders",
+            "Understand & Convey Complex Information"
         ],
         "media": [
             ""
@@ -65,7 +160,23 @@
             "3D-Printing"
         ],
         "skills": [
-            ""
+            "2D Drawing + Drafting",
+            "3D Modeling",
+            "3D Printing",
+            "3D Visualization",
+            "Analytical Skills",
+            "AutoCAD",
+            "CAD Standards",
+            "CNC Operation",
+            "CNC Programming",
+            "Computer-Aided Design (CAD)",
+            "Fusion 360",
+            "Onshape",
+            "Problem Solving",
+            "Project Management",
+            "Project Planning",
+            "Purchase Orders",
+            "Understand & Convey Complex Information"
         ],
         "media": [
             ""
@@ -82,7 +193,33 @@
             ""
         ],
         "skills": [
-            ""
+            "2D Drawing + Drafting",
+            "3D Modeling",
+            "3D Printing",
+            "3D Rendering",
+            "3D Visualization",
+            "Analytical Skills",
+            "AutoCAD",
+            "Autodesk",
+            "C++",
+            "CAD Standards",
+            "CNC Operation",
+            "CNC Programming",
+            "Computer-Aided Design (CAD)",
+            "Digital Electronics",
+            "Fusion 360",
+            "Inventor",
+            "Microsoft Excel",
+            "Microsoft Office",
+            "Microsoft PowerPoint",
+            "Microsoft Word",
+            "Notion",
+            "Onshape",
+            "Problem Solving",
+            "Project Management",
+            "Project Planning",
+            "Purchase Orders",
+            "Understand & Convey Complex Information"
         ],
         "media": [
             ""
@@ -99,7 +236,33 @@
             ""
         ],
         "skills": [
-            ""
+            "2D Drawing + Drafting",
+            "3D Modeling",
+            "3D Printing",
+            "3D Rendering",
+            "3D Visualization",
+            "Analytical Skills",
+            "AutoCAD",
+            "Autodesk",
+            "C++",
+            "CAD Standards",
+            "CNC Operation",
+            "CNC Programming",
+            "Computer-Aided Design (CAD)",
+            "Digital Electronics",
+            "Fusion 360",
+            "Inventor",
+            "Microsoft Excel",
+            "Microsoft Office",
+            "Microsoft PowerPoint",
+            "Microsoft Word",
+            "Notion",
+            "Onshape",
+            "Problem Solving",
+            "Project Management",
+            "Project Planning",
+            "Purchase Orders",
+            "Understand & Convey Complex Information"
         ],
         "media": [
             ""
@@ -116,7 +279,33 @@
             ""
         ],
         "skills": [
-            ""
+            "2D Drawing + Drafting",
+            "3D Modeling",
+            "3D Printing",
+            "3D Rendering",
+            "3D Visualization",
+            "Analytical Skills",
+            "AutoCAD",
+            "Autodesk",
+            "C++",
+            "CAD Standards",
+            "CNC Operation",
+            "CNC Programming",
+            "Computer-Aided Design (CAD)",
+            "Digital Electronics",
+            "Fusion 360",
+            "Inventor",
+            "Microsoft Excel",
+            "Microsoft Office",
+            "Microsoft PowerPoint",
+            "Microsoft Word",
+            "Notion",
+            "Onshape",
+            "Problem Solving",
+            "Project Management",
+            "Project Planning",
+            "Purchase Orders",
+            "Understand & Convey Complex Information"
         ],
         "media": [
             ""
@@ -133,7 +322,33 @@
             ""
         ],
         "skills": [
-            ""
+            "2D Drawing + Drafting",
+            "3D Modeling",
+            "3D Printing",
+            "3D Rendering",
+            "3D Visualization",
+            "Analytical Skills",
+            "AutoCAD",
+            "Autodesk",
+            "C++",
+            "CAD Standards",
+            "CNC Operation",
+            "CNC Programming",
+            "Computer-Aided Design (CAD)",
+            "Digital Electronics",
+            "Fusion 360",
+            "Inventor",
+            "Microsoft Excel",
+            "Microsoft Office",
+            "Microsoft PowerPoint",
+            "Microsoft Word",
+            "Notion",
+            "Onshape",
+            "Problem Solving",
+            "Project Management",
+            "Project Planning",
+            "Purchase Orders",
+            "Understand & Convey Complex Information"
         ],
         "media": [
             ""
@@ -150,7 +365,33 @@
             ""
         ],
         "skills": [
-            ""
+            "2D Drawing + Drafting",
+            "3D Modeling",
+            "3D Printing",
+            "3D Rendering",
+            "3D Visualization",
+            "Analytical Skills",
+            "AutoCAD",
+            "Autodesk",
+            "C++",
+            "CAD Standards",
+            "CNC Operation",
+            "CNC Programming",
+            "Computer-Aided Design (CAD)",
+            "Digital Electronics",
+            "Fusion 360",
+            "Inventor",
+            "Microsoft Excel",
+            "Microsoft Office",
+            "Microsoft PowerPoint",
+            "Microsoft Word",
+            "Notion",
+            "Onshape",
+            "Problem Solving",
+            "Project Management",
+            "Project Planning",
+            "Purchase Orders",
+            "Understand & Convey Complex Information"
         ],
         "media": [
             ""

@@ -11,6 +11,18 @@ class Section:
         return replace_key(key, value, replace_key("section-id", key, self.layout))
 
 
+class Profile:
+    def __init__(self, data_path: pathlib.Path):
+        self.path = data_path
+        self.data = json.load(self.path.open())
+
+    def get_skills(self):
+        d = self.data["skills"]
+        d.sort()
+        print(d)
+        return ", ".join(self.data["skills"])
+
+
 class Contact:
     def __init__(self, data_path: pathlib.Path):
         self.path = data_path

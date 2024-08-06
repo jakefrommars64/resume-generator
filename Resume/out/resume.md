@@ -25,337 +25,6 @@
 ::::
 :::::
 
-<!-- #region Certifications -->
-
-::::: container
-:::: row
-::: col resume resume-section
-Certifications
-:::
-::::
-:::::
-
-<!-- ::::: container resume -->
-
-<!-- #region Certified Professional Autodesk Inventor -->
-
-::::: container resume resume-section-3
-:::: row resume-detail
-::: col
-***Certified Professional Autodesk Inventor***
-{issuing-organization}
-Issued: December 2016
-Expires: N/A
-Credential ID: wBXT6-22qB
-<a class="resume-detail" href="https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=151&cvid=gajtYY9oAKMV2kCwoUNt7g==">Certification</a>
-:::
-::: col resume-skills
-**Skills**
-
-
-:::
-::::
-
-:::: row resume-detail
-::: col
-
-:::
-::::
-:::::
-
-<!-- #endregion Certified Professional Autodesk Inventor -->
-
-<!-- ::::: -->
-
-<!-- #endregion Certifications -->
-
-<!-- #region Education -->
-
-::::: container
-:::: row
-::: col resume resume-section
-Education
-:::
-::::
-:::::
-
-<!-- ::::: container resume -->
-
-<!-- #region Garrett High School -->
-
-::::: container resume resume-section-3
-:::: row resume-detail
-::: col
-***Garrett High School***
-
-High School Diploma
-GPA: 3.4095
-Garrett, IN
-August 2016 &rarr May 2020
-:::
-::: col resume-skills
-**Skills**
-
-
-:::
-::: col resume-skills
-**Activities + Societies**
-National Honors Society, Honor Roll, Student aid for 'Project Lead The Way', Cyber Patriot, Marching Band, Volunteer at JAM Recreation Center
-
-:::
-::::
-
-:::: row resume-detail
-::: col
-
-:::
-::::
-:::::
-
-<!-- #endregion Garrett High School -->
-
-<!-- #region Purdue University -->
-
-::::: container resume resume-section-3
-:::: row resume-detail
-::: col
-***Purdue University***
-Mechanical Engineering
-Bachelor's
-GPA: 
-Fort Wayne, IN
-August 2020 &rarr January 2021
-:::
-::: col resume-skills
-**Skills**
-
-
-:::
-::: col resume-skills
-**Activities + Societies**
-
-
-:::
-::::
-
-:::: row resume-detail
-::: col
-
-:::
-::::
-:::::
-
-<!-- #endregion Purdue University -->
-
-<!-- ::::: -->
-
-<!-- #endregion Education -->
-
-<!-- #region Projects -->
-
-::::: container
-:::: row
-::: col resume resume-section
-Projects
-:::
-::::
-:::::
-
-<!-- ::::: container resume -->
-
-<!-- #region Generation Script for Gridfinity Printable Labels -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Generation Script for Gridfinity Printable Labels**
-:::
-::: col-3 resume-table-col
-11 January 2024 &rarr; 25 January 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-006)
-:::
-::: col-3
-**Categories**
-
-3D-Printing, Computer-Programming, Python, Add-In, Software Development
-:::
-::::
-
-<!-- #endregion Generation Script for Gridfinity Printable Labels -->
-
-<!-- #region Printable Label Expansion Packs for Gridfinity Bins by Pred -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Printable Label Expansion Packs for Gridfinity Bins by Pred**
-:::
-::: col-3 resume-table-col
-11 January 2024 &rarr; Work-In-Progress
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-005)
-:::
-::: col-3
-**Categories**
-
-3D-Printing
-:::
-::::
-
-<!-- #endregion Printable Label Expansion Packs for Gridfinity Bins by Pred -->
-
-<!-- #region Push-Fit Honeycomb Snap -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Push-Fit Honeycomb Snap**
-:::
-::: col-3 resume-table-col
- &rarr; 12 February 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/push-fit-honeycomb-snap)
-:::
-::: col-3
-**Categories**
-
-3D-Printing
-:::
-::::
-
-<!-- #endregion Push-Fit Honeycomb Snap -->
-
-<!-- #region Mid-Thread Screw Honeycomb Snap for Multiboard -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Mid-Thread Screw Honeycomb Snap for Multiboard**
-:::
-::: col-3 resume-table-col
- &rarr; 12 February 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/mid-thread-screw-honeycomb-snap-for-multiboard)
-:::
-::: col-3
-**Categories**
-
-3D-Printing
-:::
-::::
-
-<!-- #endregion Mid-Thread Screw Honeycomb Snap for Multiboard -->
-
-<!-- #region Filament Dy-box Mk.3 -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Filament Dy-box Mk.3**
-:::
-::: col-3 resume-table-col
-9 March 2024 &rarr; Work-In-Progress
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-3)
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Filament Dy-box Mk.3 -->
-
-<!-- #region Hinged Draw Latch -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Hinged Draw Latch**
-:::
-::: col-3 resume-table-col
-20 May 2024 &rarr; 25 May 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-003)
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Hinged Draw Latch -->
-
-<!-- #region Draw Latch -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Draw Latch**
-:::
-::: col-3 resume-table-col
-29 March 2024 &rarr; 3 May 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-002)
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Draw Latch -->
-
-<!-- #region Filament Dy-box Mk.2 -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Filament Dy-box Mk.2**
-:::
-::: col-3 resume-table-col
-23 November 2023 &rarr; 27 December 2023
-:::
-::: col-3 resume-table-col
-[Portfolio Page]()
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Filament Dy-box Mk.2 -->
-
-<!-- #region Filament Dry-Box Mk.1 -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Filament Dry-Box Mk.1**
-:::
-::: col-3 resume-table-col
-3 October 2023 &rarr; 9 November 2023
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-1)
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Filament Dry-Box Mk.1 -->
-
-<!-- ::::: -->
-
-<!-- #endregion Projects -->
-
 <!-- #region Professional History -->
 
 ::::: container
@@ -645,3 +314,350 @@ Check the product coming off the line for quality, and check the serial number. 
 <!-- ::::: -->
 
 <!-- #endregion Professional History -->
+
+<!-- #region Education -->
+
+::::: container
+:::: row
+::: col resume resume-section
+Education
+:::
+::::
+:::::
+
+<!-- ::::: container resume -->
+
+<!-- #region Garrett High School -->
+
+::::: container resume resume-section-3
+:::: row resume-detail
+::: col
+***Garrett High School***
+
+High School Diploma
+GPA: 3.4095
+Garrett, IN
+August 2016 &rarr May 2020
+:::
+::: col resume-skills
+**Skills**
+
+
+:::
+::: col resume-skills
+**Activities + Societies**
+National Honors Society, Honor Roll, Student aid for 'Project Lead The Way', Cyber Patriot, Marching Band, Volunteer at JAM Recreation Center
+
+:::
+::::
+
+:::: row resume-detail
+::: col
+
+:::
+::::
+:::::
+
+<!-- #endregion Garrett High School -->
+
+<!-- #region Purdue University -->
+
+::::: container resume resume-section-3
+:::: row resume-detail
+::: col
+***Purdue University***
+Mechanical Engineering
+Bachelor's
+GPA: 
+Fort Wayne, IN
+August 2020 &rarr January 2021
+:::
+::: col resume-skills
+**Skills**
+
+
+:::
+::: col resume-skills
+**Activities + Societies**
+
+
+:::
+::::
+
+:::: row resume-detail
+::: col
+
+:::
+::::
+:::::
+
+<!-- #endregion Purdue University -->
+
+<!-- ::::: -->
+
+<!-- #endregion Education -->
+
+<!-- #region Certifications -->
+
+::::: container
+:::: row
+::: col resume resume-section
+Certifications
+:::
+::::
+:::::
+
+<!-- ::::: container resume -->
+
+<!-- #region Certified Professional Autodesk Inventor -->
+
+::::: container resume resume-section-3
+:::: row resume-detail
+::: col
+***Certified Professional Autodesk Inventor***
+{issuing-organization}
+Issued: December 2016
+Expires: N/A
+Credential ID: wBXT6-22qB
+<a class="resume-detail" href="https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=151&cvid=gajtYY9oAKMV2kCwoUNt7g==">Certification</a>
+:::
+::: col resume-skills
+**Skills**
+
+
+:::
+::::
+
+:::: row resume-detail
+::: col
+
+:::
+::::
+:::::
+
+<!-- #endregion Certified Professional Autodesk Inventor -->
+
+<!-- ::::: -->
+
+<!-- #endregion Certifications -->
+
+<!-- #region Projects -->
+
+::::: container
+:::: row
+::: col resume resume-section
+Projects
+:::
+::::
+:::::
+
+<!-- ::::: container resume -->
+
+<!-- #region Generation Script for Gridfinity Printable Labels -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Generation Script for Gridfinity Printable Labels**
+:::
+::: col-3 resume-table-col
+11 January 2024 &rarr; 25 January 2024
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-006)
+:::
+::: col-3
+**Categories**
+
+3D-Printing, Computer-Programming, Python, Add-In, Software Development
+:::
+::::
+
+<!-- #endregion Generation Script for Gridfinity Printable Labels -->
+
+<!-- #region Printable Label Expansion Packs for Gridfinity Bins by Pred -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Printable Label Expansion Packs for Gridfinity Bins by Pred**
+:::
+::: col-3 resume-table-col
+11 January 2024 &rarr; Work-In-Progress
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-005)
+:::
+::: col-3
+**Categories**
+
+3D-Printing
+:::
+::::
+
+<!-- #endregion Printable Label Expansion Packs for Gridfinity Bins by Pred -->
+
+<!-- #region Push-Fit Honeycomb Snap -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Push-Fit Honeycomb Snap**
+:::
+::: col-3 resume-table-col
+ &rarr; 12 February 2024
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/push-fit-honeycomb-snap)
+:::
+::: col-3
+**Categories**
+
+3D-Printing
+:::
+::::
+
+<!-- #endregion Push-Fit Honeycomb Snap -->
+
+<!-- #region Mid-Thread Screw Honeycomb Snap for Multiboard -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Mid-Thread Screw Honeycomb Snap for Multiboard**
+:::
+::: col-3 resume-table-col
+ &rarr; 12 February 2024
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/mid-thread-screw-honeycomb-snap-for-multiboard)
+:::
+::: col-3
+**Categories**
+
+3D-Printing
+:::
+::::
+
+<!-- #endregion Mid-Thread Screw Honeycomb Snap for Multiboard -->
+
+<!-- #region Filament Dy-box Mk.3 -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Filament Dy-box Mk.3**
+:::
+::: col-3 resume-table-col
+9 March 2024 &rarr; Work-In-Progress
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-3)
+:::
+::: col-3
+**Categories**
+
+
+:::
+::::
+
+<!-- #endregion Filament Dy-box Mk.3 -->
+
+<!-- #region Hinged Draw Latch -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Hinged Draw Latch**
+:::
+::: col-3 resume-table-col
+20 May 2024 &rarr; 25 May 2024
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-003)
+:::
+::: col-3
+**Categories**
+
+
+:::
+::::
+
+<!-- #endregion Hinged Draw Latch -->
+
+<!-- #region Draw Latch -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Draw Latch**
+:::
+::: col-3 resume-table-col
+29 March 2024 &rarr; 3 May 2024
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-002)
+:::
+::: col-3
+**Categories**
+
+
+:::
+::::
+
+<!-- #endregion Draw Latch -->
+
+<!-- #region Filament Dy-box Mk.2 -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Filament Dy-box Mk.2**
+:::
+::: col-3 resume-table-col
+23 November 2023 &rarr; 27 December 2023
+:::
+::: col-3 resume-table-col
+[Portfolio Page]()
+:::
+::: col-3
+**Categories**
+
+
+:::
+::::
+
+<!-- #endregion Filament Dy-box Mk.2 -->
+
+<!-- #region Filament Dry-Box Mk.1 -->
+
+:::: row resume-detail resume-table-row
+::: col-3 resume-table-col
+**Filament Dry-Box Mk.1**
+:::
+::: col-3 resume-table-col
+3 October 2023 &rarr; 9 November 2023
+:::
+::: col-3 resume-table-col
+[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-1)
+:::
+::: col-3
+**Categories**
+
+
+:::
+::::
+
+<!-- #endregion Filament Dry-Box Mk.1 -->
+
+<!-- ::::: -->
+
+<!-- #endregion Projects -->
+
+<!-- #region Core Competencies -->
+
+::::: container
+:::: row
+::: col resume resume-section
+Core Competencies
+:::
+::::
+:::::
+
+<!-- ::::: container resume -->
+2D Drawing + Drafting, 3D Modeling, 3D Printing, 3D Rendering, 3D Visualization, Analytical Skills, AutoCAD, Autodesk, C++, CAD Standards, CNC Operation, CNC Programming, Coaching, Communication, Computer-Aided Design (CAD), Cross-functional Collaboration, Cross-functional Communication, Cross-functional Coordination, Cross-functional Problem Solving, Cross-functional Team Building, Cross-functional Team Leadership, Data Analysis, Digital Electronics, Interpersonal Communication, Interpersonal Skills, Inventor, Inventory Accuracy, Inventory Analysis, Inventory Management, Inventory Optimization, Java, Material Handling, Microsoft Excel, Microsoft Office, Microsoft PowerPoint, Microsoft Word, Onshape, Order Fulfillment, Palletizing, Problem Solving, Project Management, Project Planning, Purchase Orders, Python, Revit, Sorting, Teamwork, Understand & Convey Complex Information
+<!-- ::::: -->
+
+<!-- #endregion Core Competencies -->

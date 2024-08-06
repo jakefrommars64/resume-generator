@@ -19,6 +19,7 @@ PATH_PROFESSIONAL_HISTORY_DATA = dir_path.joinpath(
 PATH_PROJECTS_DATA = dir_path.joinpath("data/projects.json")
 PATH_EDUCATION_DATA = dir_path.joinpath("data/education.json")
 PATH_CERTIFICATION_DATA = dir_path.joinpath("data/certifications.json")
+PATH_PROFILE_DATA = dir_path.joinpath("data/profile.json")
 
 PATH_SECTION_LAYOUT = dir_path.joinpath("layout/section.md")
 PATH_MAIN_LAYOUT = dir_path.joinpath("layout/main.md")

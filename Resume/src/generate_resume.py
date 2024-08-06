@@ -20,14 +20,18 @@ def run():
                           PATH_EDUCATION_LAYOUT).get_formatted_layout()
     certification = Certification(
         PATH_CERTIFICATION_DATA, PATH_CERTIFICATION_LAYOUT).get_formatted_layout()
+    profile = Profile(PATH_PROFILE_DATA)
 
     resume = PATH_MAIN_LAYOUT.read_text()
     resume = replace_key("contact", contact, resume)
 
-    sections = {"Certifications": certification,
-                "Education": education,
-                "Projects": projects,
-                "Professional History": professional_history}
+    sections = {
+        "Professional History": professional_history,
+        "Education": education,
+        "Certifications": certification,
+        "Projects": projects,
+        "Core Competencies": profile.get_skills()
+    }
     for key, value in sections.items():
         resume += section.get_formatted_layout(key, value)
 

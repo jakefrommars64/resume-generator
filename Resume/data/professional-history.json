@@ -176,7 +176,7 @@
                 ]
             },
             {
-                "include": true,
+                "include": false,
                 "title": "Outbound Truck Loader",
                 "employment-type": "Full-Time",
                 "location": "Ashley, IN",
@@ -212,7 +212,7 @@
         "employer": "Walmart",
         "positions": [
             {
-                "include": true,
+                "include": false,
                 "title": "Stocking Associate",
                 "employment-type": "Full-Time",
                 "location": "Fort Wayne, IN",
@@ -243,7 +243,7 @@
         "employer": "Therma-Tru",
         "positions": [
             {
-                "include": true,
+                "include": false,
                 "title": "Molding Operator",
                 "employment-type": "Full-Time",
                 "location": "Butler, IN",
@@ -270,7 +270,7 @@
         "employer": "FXI",
         "positions": [
             {
-                "include": true,
+                "include": false,
                 "title": "SA Packer",
                 "employment-type": "Full-Time",
                 "location": "Auburn, IN",

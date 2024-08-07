@@ -178,28 +178,6 @@ Promoted to Project Lead after mentioning safety concerns to management and the 
 ::::
 :::::
 
-::::: container resume resume-section-3
-:::: row resume-detail
-::: col
-***Outbound Truck Loader***
-Full-Time
-Ashley, IN
-June 2022 &rarr October 2023
-:::
-::: col resume-skills
-**Skills**
-Analytical Skills, Cross-functional Collaboration, Cross-functional Communication, Cross-functional Coordination, Cross-functional Problem Solving, Interpersonal Communication, Interpersonal Skills, Inventory Accuracy, Inventory Analysis, Material Handling, Microsoft Excel, Microsoft Office, Microsoft Word, Order Fulfillment, Palletizing, Problem Solving, Purchase Orders, Sorting, Teamwork, Understand & Convey Complex Information
-
-:::
-::::
-
-:::: row resume-detail
-::: col
-Sort packages between different carriers.<br>Check package condition and packing quality and fix any issues that might cause the product to be damaged during shipping.<br>Load packages and pallets onto respective carriers’ trailers ensuring packages are secure.<br>Use forktrucks to load oversize products onto trailers in a safe manner.
-:::
-::::
-:::::
-
 
 <!-- #endregion Western Power Sports -->
 
@@ -213,28 +191,6 @@ Sort packages between different carriers.<br>Check package condition and packing
 ::::
 :::::
 
-
-::::: container resume resume-section-3
-:::: row resume-detail
-::: col
-***Stocking Associate***
-Full-Time
-Fort Wayne, IN
-January 2022 &rarr June 2022
-:::
-::: col resume-skills
-**Skills**
-Analytical Skills, Coaching, Cross-functional Collaboration, Cross-functional Communication, Cross-functional Coordination, Cross-functional Problem Solving, Interpersonal Communication, Interpersonal Skills, Inventory Accuracy, Inventory Analysis, Inventory Management, Order Fulfillment, Palletizing, Sorting, Understand & Convey Complex Information
-
-:::
-::::
-
-:::: row resume-detail
-::: col
-Unload General Merchandise trucks and separate crates onto different pallets according to the department in a quick and efficient manner.<br>Stock merchandise onto shelves while facing all items to make the store more attractive to customers.<br>Operate manual and electric pallet jacks to move bulks of merchandise throughout the store.<br>Use pick sheets to select products for specific isles and shelf spots.
-:::
-::::
-:::::
 
 
 <!-- #endregion Walmart -->
@@ -250,28 +206,6 @@ Unload General Merchandise trucks and separate crates onto different pallets acc
 :::::
 
 
-::::: container resume resume-section-3
-:::: row resume-detail
-::: col
-***Molding Operator***
-Full-Time
-Butler, IN
-June 2021 &rarr February 2022
-:::
-::: col resume-skills
-**Skills**
-Analytical Skills, Coaching, Communication, Interpersonal Communication, Interpersonal Skills, Inventory Accuracy, Material Handling, Order Fulfillment, Problem Solving, Teamwork, Understand & Convey Complex Information
-
-:::
-::::
-
-:::: row resume-detail
-::: col
-
-:::
-::::
-:::::
-
 
 <!-- #endregion Therma-Tru -->
 
@@ -285,28 +219,6 @@ Analytical Skills, Coaching, Communication, Interpersonal Communication, Interpe
 ::::
 :::::
 
-
-::::: container resume resume-section-3
-:::: row resume-detail
-::: col
-***SA Packer***
-Full-Time
-Auburn, IN
-April 2021 &rarr June 2021
-:::
-::: col resume-skills
-**Skills**
-Analytical Skills, Coaching, Communication, Interpersonal Communication, Interpersonal Skills, Inventory Accuracy, Material Handling, Order Fulfillment, Problem Solving, Teamwork, Understand & Convey Complex Information
-
-:::
-::::
-
-:::: row resume-detail
-::: col
-Check the product coming off the line for quality, and check the serial number. Load the product into the appropriate box, also put any warranties and informational packets in the box. Close the box and stack it onto a rack or pallet for shipping.
-:::
-::::
-:::::
 
 
 <!-- #endregion FXI -->
@@ -454,29 +366,6 @@ Projects
 <!-- ::::: container resume -->
 
 ::::: container resume
-<!-- #region Resume Generation Script -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Resume Generation Script**
-:::
-::: col-3 resume-table-col
-29 July 2024 &rarr; 6 August 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page]()
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Resume Generation Script -->
-
-:::::
-::::: container resume
 <!-- #region Generation Script for Gridfinity Printable Labels -->
 
 :::: row resume-detail resume-table-row
@@ -520,52 +409,6 @@ Projects
 ::::
 
 <!-- #endregion Printable Label Expansion Packs for Gridfinity Bins by Pred -->
-
-:::::
-::::: container resume
-<!-- #region Push-Fit Honeycomb Snap -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Push-Fit Honeycomb Snap**
-:::
-::: col-3 resume-table-col
- &rarr; 12 February 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/push-fit-honeycomb-snap)
-:::
-::: col-3
-**Categories**
-
-3D-Printing
-:::
-::::
-
-<!-- #endregion Push-Fit Honeycomb Snap -->
-
-:::::
-::::: container resume
-<!-- #region Mid-Thread Screw Honeycomb Snap for Multiboard -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Mid-Thread Screw Honeycomb Snap for Multiboard**
-:::
-::: col-3 resume-table-col
- &rarr; 12 February 2024
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/mid-thread-screw-honeycomb-snap-for-multiboard)
-:::
-::: col-3
-**Categories**
-
-3D-Printing
-:::
-::::
-
-<!-- #endregion Mid-Thread Screw Honeycomb Snap for Multiboard -->
 
 :::::
 ::::: container resume
@@ -635,52 +478,6 @@ Projects
 ::::
 
 <!-- #endregion Draw Latch -->
-
-:::::
-::::: container resume
-<!-- #region Filament Dy-box Mk.2 -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Filament Dy-box Mk.2**
-:::
-::: col-3 resume-table-col
-23 November 2023 &rarr; 27 December 2023
-:::
-::: col-3 resume-table-col
-[Portfolio Page]()
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Filament Dy-box Mk.2 -->
-
-:::::
-::::: container resume
-<!-- #region Filament Dry-Box Mk.1 -->
-
-:::: row resume-detail resume-table-row
-::: col-3 resume-table-col
-**Filament Dry-Box Mk.1**
-:::
-::: col-3 resume-table-col
-3 October 2023 &rarr; 9 November 2023
-:::
-::: col-3 resume-table-col
-[Portfolio Page](https://www.jakefrommars64.com/portfolio-collections/my-portfolio/jfm-proj-001-1)
-:::
-::: col-3
-**Categories**
-
-
-:::
-::::
-
-<!-- #endregion Filament Dry-Box Mk.1 -->
 
 :::::
 <!-- ::::: -->
